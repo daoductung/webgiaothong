@@ -1,1 +1,1 @@
-web: gunicorn pagado.wsgi --log-file -
+web: gunicorn trafficlight.wsgi --log-file -

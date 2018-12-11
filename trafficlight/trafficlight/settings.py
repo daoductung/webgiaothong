@@ -75,11 +75,11 @@ WSGI_APPLICATION = 'trafficlight.wsgi.application'
 DATABASES = {
     'default':{
         'ENGINE':  'django.db.backends.postgresql',
-        'NAME': 'TrafficLight',
-        'HOST': 'localhost',
+        'NAME': 'ds6icsd26bb6e',
+        'HOST': 'ec2-174-129-41-12.compute-1.amazonaws.com',
         'PORT': '5432',
-        'USER': 'python',
-        'PASSWORD': 'python'
+        'USER': 'lmqdqmblesgmpf',
+        'PASSWORD': 'b74a781416b44120d4165666e41ee614b186a8396982ca2cd7985b217ce62627'
     }
 }
 

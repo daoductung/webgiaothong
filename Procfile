@@ -1,1 +1,1 @@
-web: gunicorn webgiaothong.wsgi --log-file -
+web: gunicorn trafficligth.wsgi --log-file -
